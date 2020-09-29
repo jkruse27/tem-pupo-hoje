@@ -6,3 +6,4 @@ Para os não mexedores em React: dê o ```git pull``` na master, dê ```npm inst
 
 Para fazer novas partes: Faça um arquivo no /src com o Nome.js, coloque tudo que quiser lá e importe no index.js, colocando lá no return <Nome />. Para os templates, joga algo no Material-UI e veja as opções que têm. Front-end é copiar e colar coisas.
 
+Quando terminar de fazer as coisas, dê o seu add, commit e push na master e ainda faça ```npm run deploy``` para atualizar a página no servidor do github.
